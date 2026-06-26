@@ -33,5 +33,4 @@ This repository contains the deliverables for **Task 1** of the Future Interns C
 
 ## Author
 **Kenny Kosa** - Cyber Security Intern, Future Interns  
-CIN ID: FIT/JUN26/CS9276  
 Date: June 26, 2026
